@@ -10,11 +10,8 @@
 
 
 <h2><strong> Onlice Video</strong></h2>
+<a href="https://youtu.be/VzaR4KlD-Ps" rel="nofollow"><img src="https://i.ibb.co/pjm9K3d/videobtn1.jpg" alt="videobtn"></a>
 
-     <a href="https://youtu.be/VzaR4KlD-Ps" rel="nofollow">
-        <img src="https://i.ibb.co/pjm9K3d/videobtn1.jpg" alt="videobtn">
-    </a>
-</p>
 
 <img src="https://i.ibb.co/4FRmJNN/discout.jpg" alt="discout" border="0">
  <a href="https://wa.me/85265898516" rel="nofollow">
