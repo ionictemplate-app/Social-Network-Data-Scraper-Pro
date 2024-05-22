@@ -1,5 +1,5 @@
 # Social Network Data Scraper Pro
-# <a href="https://codecanyon.net/item/social-network-data-scraper-pro/34467442" rel="_blank"> Social-Network-Data-Scraper-Pro</a>
+ <a href="https://codecanyon.net/item/social-network-data-scraper-pro/34467442" rel="_blank"> Social-Network-Data-Scraper-Pro</a>
 
 ## All Product List:🌐 https://bit.ly/alloninesocial
 ### Telegram: 👉 https://t.me/IonicSupport   
@@ -11,7 +11,7 @@
 #### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
 
 
-#Social Network Data Scraper Pro 23.0.5 
+# Social Network Data Scraper Pro 23.0.5 
 <p>
     <strong>Social Network Data Scraper Pro </strong>is a powerful tool that allows you to bulk extract <strong>email and phone numbers</strong>
     from various social media platforms including Facebook, Twitter, Instagram, LinkedIn,Youtube,Pinterest,TikTok,tumblr and any website.
@@ -63,40 +63,67 @@
 <p><strong>10  Easy Use:</strong> Ready-to-use Social Network Data Scraper Software to get started instantly</p>
 
 <h2><strong>All Features:</strong></h2>
-<ul>
+✅Installation file
 
-    <li><p><strong>✅Installation file</strong></p></li>
-    <li><p><strong>✅Fast Extract</strong></p></li>
-    <li><p><strong>✅Multi-thread Extract</strong></p></li>
-    <li><p><strong>✅Support Http Proxy</strong></p></li>
-    <li><p><strong>✅100% Scraper Email | Phone Number</strong></p></li>
-    <li><p><strong>✅Support Bulk keyword </strong></p></li>
-    <li><p><strong>✅Support custom domain </strong></p></li>
-    <li><p><strong>✅Scraper LinkedIn</strong></p></li>
-    <li><p><strong>✅Scraper Facebook</strong></p></li>
-    <li><p><strong>✅Scraper Instagram</strong></p></li>
-    <li><p><strong>✅Scraper Youtube</strong></p></li>
-    <li><p><strong>✅Scraper Pinterest</strong></p></li>
-    <li><p><strong>✅Scraper Twitter</strong></p></li>
-    <li><p><strong>✅Scraper TikTok</strong></p></li>
-    <li><p><strong>✅Scraper Tumblr</strong></p></li>
-	<li><p><strong>✅Scraper Dribbble</strong></p></li>
-    <li><p><strong>✅Scraper VK</strong></p></li>
-	<li><p><strong>✅Scraper ok.ru</strong></p></li>
-	<li><p><strong>✅Scraper Line</strong></p></li>
-	<li><p><strong>✅Scraper Snapchat</strong></p></li>
-    <li><p><strong>✅Scraper Any website</strong></p></li>
-    <li><p><strong>✅Scraper Name,Phone,Email,Address,Position,Company,Website,Description</strong></p></li>
-    <li><p><strong>✅Bulk url import</strong></p></li>
-    <li><p><strong>✅Bulk url extract email | phone</strong></p></li>
-    <li><p><strong>✅phone number formatted output</strong></p></li>
-    <li><p><strong>✅Multi-threaded email extract</strong></p></li>
-    <li><p><strong>✅Crawl email|phone from URL webpage</strong></p></li>
-    <li><p><strong>✅Export Excel,Json,Html,Sql File</strong></p></li>
-    <li><p><strong>✅Easy Scraper data</strong></p></li>
-    <li><p><strong>✅not include sourcecode</strong></p></li>
-    <li><p><strong>✅More....</strong></p></li>
-</ul>
+✅Fast Extract
+
+✅Multi-thread Extract
+
+✅Support Http Proxy
+
+✅100% Scraper Email | Phone Number
+
+✅Support Bulk keyword
+
+✅Support custom domain
+
+✅Scraper LinkedIn
+
+✅Scraper Facebook
+
+✅Scraper Instagram
+
+✅Scraper Youtube
+
+✅Scraper Pinterest
+
+✅Scraper Twitter
+
+✅Scraper TikTok
+
+✅Scraper Tumblr
+
+✅Scraper Dribbble
+
+✅Scraper VK
+
+✅Scraper ok.ru
+
+✅Scraper Line
+
+✅Scraper Snapchat
+
+✅Scraper Any website
+
+✅Scraper Name,Phone,Email,Address,Position,Company,Website,Description
+
+✅Bulk url import
+
+✅Bulk url extract email | phone
+
+✅phone number formatted output
+
+✅Multi-threaded email extract
+
+✅Crawl email|phone from URL webpage
+
+✅Export Excel,Json,Html,Sql File
+
+✅Easy Scraper data
+
+✅not include sourcecode
+
+✅More....
 
 <h2><strong>Screenshot</strong></h2>
 <img src="https://i.ibb.co/8NbLhV5/00.png" alt="email scraper, extractor email,Facebook Email Scraper,LinkedIn Email Scraper,Instagram Email Scraper,YouTube Email Scraper,TikTok Email Scraper" />
